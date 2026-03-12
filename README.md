@@ -1,6 +1,6 @@
 # SimplExtract — Téléchargements
 
-Application Tauri pour les formateurs Simplon : téléchargement en lot des rendus étudiants et des bilans PDF depuis Simplonline.
+Application pour les formateurs Simplon : téléchargement en lot des rendus étudiants et des bilans PDF depuis Simplonline.
 
 ## Télécharger
 
